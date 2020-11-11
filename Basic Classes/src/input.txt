@@ -1,0 +1,4 @@
+[5, 6, 3, 2, 53453, 2452, 543, 5245]hi
+Minimum value is 2
+Maximum value is 53453
+Average value is 7713.625
