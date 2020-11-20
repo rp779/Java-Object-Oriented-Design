@@ -9,4 +9,6 @@
 - Design Patterns
   - TEMPLATE
   - DECORATOR
+  - SINGLETON
+  - ADAPTOR
 
